@@ -1,0 +1,10 @@
+user_id,date_of_journey,duration,destination,cost,currency
+101,2018-01-16,10,New Zeland,,
+284,2017-07-13,10,australia,2325.0,EUR
+136,2019-10-10,7,Australia,1760.0,GBP
+800,2018/03/20,13,New_Zealand,2740.0,GBP
+101,2019-12-24,7,Australia/,4000.0,GBP
+800,2017-10-17,11,Australia,2475.0,EUR
+823,2016/11/02,14,New Zealand,3140.0,GBP
+529,2019/09/14,8,Australia,1840.0,GBP
+284,2019-08-07,12,New_zealand,2910.0,GBP
