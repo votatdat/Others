@@ -1,0 +1,12 @@
+#Documents
+/_Docs
+
+#Jupyter checkpoints
+/.ipynb_checkpoints
+
+#Python cache
+/__pycache__
+
+#Others
+
+#Plot pictures
