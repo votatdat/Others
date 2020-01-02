@@ -5,9 +5,13 @@
 /.ipynb_checkpoints
 ./CheatSheet/.ipynb_checkpoints
 
+
 #Python cache
 /__pycache__
 
 #Others
 
 #Plot pictures
+ 
+# Numpy
+./CheatSheet/*.npy
