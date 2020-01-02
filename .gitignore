@@ -3,6 +3,7 @@
 
 #Jupyter checkpoints
 /.ipynb_checkpoints
+./CheatSheet/.ipynb_checkpoints
 
 #Python cache
 /__pycache__
