@@ -3,7 +3,7 @@
 
 #Jupyter checkpoints
 /.ipynb_checkpoints
-./CheatSheet/.ipynb_checkpoints
+/CheatSheet/.ipynb_checkpoints
 
 
 #Python cache
@@ -14,4 +14,4 @@
 #Plot pictures
  
 # Numpy
-./CheatSheet/*.npy
+/CheatSheet/*.npy
