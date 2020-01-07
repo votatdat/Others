@@ -13,6 +13,10 @@
 
 #Plot pictures
  
-# Numpy
+# Files
 /CheatSheet/*.npy
 /CheatSheet/*.npz
+/CheatSheet/*.csv
+/CheatSheet/*.txt
+/CheatSheet/*.xls
+/CheatSheet/*.xlsx
