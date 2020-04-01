@@ -4,7 +4,7 @@
 #Jupyter checkpoints
 /.ipynb_checkpoints
 /CheatSheet/.ipynb_checkpoints
-
+/machinelearningmastery/.ipynb_checkpoints
 
 #Python cache
 /__pycache__
